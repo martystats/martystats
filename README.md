@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin Ude
 
-<!--
-**martystats/martystats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Science & Machine Learning Practitioner
 
-Here are some ideas to get you started:
+I build end-to-end machine learning systems — from raw structured data to deployment-ready predictive applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Core Focus
+
+- 🔹 End-to-End ML Workflows  
+- 🔹 Regression & Classification Modeling  
+- 🔹 Feature Engineering & Model Optimization  
+- 🔹 Model Deployment (Streamlit)  
+- 🔹 Analytical Modeling with Python & Wolfram  
+
+---
+
+## 🛠 Technical Stack
+
+**Languages & Tools**
+
+- Python  
+- Pandas & NumPy  
+- Scikit-Learn  
+- Streamlit  
+- Wolfram Mathematica  
+- Joblib  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+
+- 🚗 EV Range Predictor (Deployed ML App)  
+- 🏢 Business Permits Data Science Workflow  
+- 🛒 Warehouse Retail Sales Modeling (Wolfram)  
+- 🏥 Health Condition Classification  
+- ✈️ Airfare Model Deployment  
+
+---
+
+## 🎯 Current Direction
+
+Focused on building production-ready ML systems with strong generalization, clean architecture, and deployment pipelines.
+
+---
+
+⭐ Continuously refining real-world data science systems.
